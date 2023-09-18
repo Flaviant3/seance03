@@ -17,4 +17,5 @@ echo $etudiant->sePresente().'<br>'; //Je m'appelle Paul MARTIN et j'ai 19 ans (
 // Modification de l'attribut Nom
 $etudiant->setNom('Durand'); // nom en minuscules
 echo $etudiant->sePresente().'<br>'; // Je m'appelle Paul DURAND et j'ai 19 ans (nom en majuscules)
+//coded by flaviant3
 ?>

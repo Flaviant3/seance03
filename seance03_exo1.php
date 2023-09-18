@@ -14,4 +14,5 @@
     // Modification de l'attribut Nom
     $etudiant->setNom('Durand');
     echo $etudiant->sePresente().'<br>'; // Je m'appelle Paul Durand et j'ai 19 ans 
+//coded by flaviant3
 ?>

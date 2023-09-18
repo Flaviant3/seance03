@@ -30,3 +30,5 @@ class ConnexionSQL
     }
 
 }
+//coded by flaviant3
+?>

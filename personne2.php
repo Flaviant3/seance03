@@ -30,4 +30,5 @@ class Personne2 {
         $this->nom=strtoupper($n);
     }
 }
+//coded by flaviant3
 ?>

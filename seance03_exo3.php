@@ -17,5 +17,5 @@ echo '<br><br>';
 // Création d'une deuxième instance
 $connexion2=new ConnexionSQL('serveur','test','root','');// serveur n'est pas une @ip valide
 echo $connexion2->lire_connexion();
-
+//coded by flaviant3
 ?>
